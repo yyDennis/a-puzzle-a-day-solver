@@ -1,1 +1,1 @@
-// full upstream JavaScript game source
+// full upstream game source
