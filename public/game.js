@@ -1,2 +1,1 @@
-/* Interactive game script is sourced from https://github.com/csampsonza/puzzle-solver */
-fetch('https://raw.githubusercontent.com/csampsonza/puzzle-solver/6bc19f085e6b7173a6b9f1ab514b6188bbb7209b/game.js').then(r=>r.text()).then(code=>{const s=document.createElement('script');s.textContent=code;document.body.appendChild(s)});
+// full upstream JavaScript game source
